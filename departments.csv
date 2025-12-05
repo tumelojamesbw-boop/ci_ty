@@ -1,0 +1,9 @@
+Department_ID,Department_Name,Manager
+D001,Planning,Planner A
+D002,Procurement,Buyer B
+D003,Finance,CFO C
+D004,Mechanical,Eng. M
+D005,Electrical,Eng. E
+D006,Instrumentation,Eng. I
+D007,Civil,Eng. C
+D008,HSE,Safety Officer

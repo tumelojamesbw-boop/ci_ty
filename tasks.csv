@@ -1,0 +1,27 @@
+Task_ID,Project_ID,Department_ID,Task_Name,Est_Start,Est_End,Act_Start,Act_End,Delay_Days,percent_complete,Assigned_To,Priority,Status,Comments,Planned_Duration,Actual_Duration,Last_Updated
+T001,P001,D001,Site Survey,1-Jan-2025,1-May-2025,1-Jan-2025,1-Jun-2025,1,100%,John Doe,High,Completed,Initial survey delayed due to weather,5,6,2-Oct-25
+T002,P001,D002,Issue RFQ for Drilling,1-Jun-2025,1-Oct-2025,1-Jul-2025,1-Dec-2025,2,100%,Anna Smith,Medium,Completed,RFQ responses slower than expected,5,6,2-Oct-25
+T003,P001,D003,Approve PO for Contractor,1-Nov-2025,13-01-2025,1-Dec-2025,14-01-2025,1,100%,Peter K.,High,Completed,PO approved on second review,3,3,2-Oct-25
+T004,P001,D004,Mobilize Drilling Rig,14-02-2025,18-02-2025,14-02-2025,20-02-2025,2,100%,Sarah M.,Medium,Completed,Rig arrived late due to transport issue,5,7,2-Oct-25
+T005,P001,D008,Safety Induction,14-02-2025,14-02-2025,15-02-2025,15-02-2025,1,100%,Mark N.,Low,Completed,Minor scheduling conflict with safety officer,1,1,2-Oct-25
+T006,P001,D004,Drilling & Casing,19-02-2025,28-02-2025,19-02-2025,3-Mar-2025,3,90%,John Doe,High,In Progress,Drilling completed ahead of expected time,10,13,2-Oct-25
+T007,P001,D005,Electrical Cabling,3-Jan-2025,3-May-2025,3-Feb-2025,3-Jun-2025,1,80%,Kevin T.,Medium,In Progress,Some wiring components missing,5,5,2-Oct-25
+T008,P001,D006,Instrumentation Setup,3-Jun-2025,3-Oct-2025,3-Jul-2025,3-Dec-2025,2,60%,Emma G.,Medium,In Progress,Setup smooth after procurement,5,6,2-Oct-25
+T009,P001,D004,Commissioning & Testing,3-Nov-2025,15-03-2025,3-Dec-2025,18-03-2025,3,30%,David W.,High,Started,Extended testing due to sensor faults,5,7,2-Oct-25
+T040,P004,D007,Site Clearing,2-Jan-2025,2-Mar-2025,2-Jan-2025,2-Mar-2025,0,100%,Eng. C,Medium,Completed,Completed without issues,3,3,3-Oct-25
+T041,P004,D007,Ground Leveling,2-May-2025,2-Aug-2025,2-May-2025,2-Sep-2025,1,100%,Eng. C,Medium,Completed,One-day delay due to rain,4,5,3-Oct-25
+T042,P004,D004,Foundation Excavation,2-Sep-2025,13-01-2025,2-Oct-2025,14-02-2025,1,100%,Eng. M,High,Completed,Minor equipment failure resolved,5,5,3-Oct-25
+T043,P004,D007,Slab Construction,14-02-2025,20-02-2025,15-02-2025,21-02-2025,1,100%,Eng. C,High,Completed,Concrete curing time extended,7,7,3-Oct-25
+T044,P004,D004,Wall & Roof Installation,22-02-2025,3-Mar-2025,23-02-2025,3-Apr-2025,1,100%,Eng. M,Medium,Completed,Slight delay in roof frame delivery,10,10,3-Oct-25
+T045,P004,D005,Electrical Works,3-May-2025,3-Jul-2025,3-Jun-2025,3-Aug-2025,1,90%,Eng. E,Medium,In Progress,Final switchboards pending,3,3,3-Oct-25
+T046,P004,D006,Instrumentation Setup,3-May-2025,3-Jul-2025,3-May-2025,,0,60%,Eng. I,Low,In Progress,Awaiting sensor delivery,3,,3-Oct-25
+T047,P004,D008,Final HSE Inspection,3-Jul-2025,3-Aug-2025,,,,0%,Safety Officer,Medium,Planned,Pending completion of electrical & sensors,2,,3-Oct-25
+T050,P005,D007,Route Survey,3-Jan-2025,3-Mar-2025,3-Jan-2025,3-Mar-2025,0,100%,Eng. C,Medium,Completed,Survey team worked ahead of time,3,3,3-Oct-25
+T051,P005,D007,Bush Clearing & Grubbing,3-Jun-2025,15-03-2025,3-Jun-2025,16-03-2025,1,100%,Eng. C,Medium,Completed,Extended work zone,10,11,3-Oct-25
+T052,P005,D007,Earthworks & Grading,17-03-2025,31-03-2025,18-03-2025,4-Jan-2025,1,90%,Eng. C,High,In Progress,Final section waiting for equipment,15,15,3-Oct-25
+T053,P005,D004,Subbase Laying,4-Feb-2025,4-Oct-2025,4-Feb-2025,,0,60%,Eng. M,Medium,In Progress,Gravel delivery delay,10,,3-Oct-25
+T054,P005,D007,Culvert Construction,4-Nov-2025,20-04-2025,,,,30%,Eng. C,Medium,Started,"Excavation completed, reinforcements pending",10,,3-Oct-25
+T055,P005,D004,Base Course Application,21-04-2025,28-04-2025,,,,0%,Eng. M,High,Planned,Not started,8,,3-Oct-25
+T056,P005,D007,Asphalt Paving,5-Mar-2025,15-05-2025,,,,0%,Eng. C,High,Planned,Requires completion of base layer,15,,3-Oct-25
+T057,P005,D007,Road Marking,16-05-2025,20-05-2025,,,,0%,Eng. C,Medium,Planned,Final activity before inspection,5,,3-Oct-25
+T058,P005,D008,Final HSE Inspection,21-05-2025,22-05-2025,,,,0%,Safety Officer,Medium,Planned,Planned after paving and marking,2,,3-Oct-25

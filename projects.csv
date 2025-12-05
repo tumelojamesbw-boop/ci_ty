@@ -1,0 +1,4 @@
+Project_ID,Project_Name,Location,Start_Date,End_Date,Status,Project_Completion
+P001,Borehole Drilling,Zone A,2-Jan-2025,31-Mar-25,complete,80%
+P004,Camp Site Installation,Base Camp Area,2-Jan-2025,28-Feb-25,Completed,100%
+P005,15km Road Construction,Mine Access Rd,3-Jan-2025,30-Jun-25,In Progress,45%
