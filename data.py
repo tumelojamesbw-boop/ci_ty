@@ -17,7 +17,7 @@ def load_and_merge_data():
 
 
     costs_df = pd.read_csv("costs.csv")
-    departments_df = pd.read_csv("Departments.csv")
+    departments_df = pd.read_csv("departments.csv")
 
     # Merge tasks with projects
     merged = tasks_df.merge(projects_df, on="Project_ID", how="left", suffixes=('', '_Project'))
@@ -29,3 +29,4 @@ def load_and_merge_data():
     merged = merged.merge(costs_df, on="Task_ID", how="left", suffixes=('', '_Cost'))
 
     return merged
+
